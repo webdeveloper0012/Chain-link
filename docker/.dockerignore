@@ -1,0 +1,10 @@
+log/
+script/
+spec/
+tmp/
+.env*
+.git/
+.gitignore
+.rspec
+.ruby-version
+README.md
